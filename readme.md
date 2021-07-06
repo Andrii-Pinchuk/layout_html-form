@@ -1,7 +1,7 @@
 # HTML form
 Replace `<your_account>` with your Github username and copy the links to Pull Request description:
 - [DEMO LINK](https://Andrii-Pinchuk.github.io/layout_html-form/)
-- [TEST REPORT LINK](Andrii-Pinchuk.github.io/layout_html-form/report/html_report/)
+- [TEST REPORT LINK](backstop_data/bitmaps_reference/Entire_document.png)
 
 > Follow [this instructions](https://github.com/mate-academy/layout_task-guideline#how-to-solve-the-layout-tasks-on-github)
 ___
